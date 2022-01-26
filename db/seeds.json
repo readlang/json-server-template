@@ -25,8 +25,8 @@
       "title": "Nutrition",
       "activity": "Eat",
       "minmax": "at most",
-      "number": 1,
-      "unit": "snack",
+      "number": 3,
+      "unit": "snacks",
       "interval": "per day",
       "actions": []
     },
