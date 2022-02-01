@@ -8,9 +8,28 @@
       "number": 3,
       "unit": "times",
       "interval": "per week",
-      "actions": []
+      "actions": [
+        {
+          "id": 6696,
+          "dateTime": "2022-01-23T14:06",
+          "number": 5,
+          "notes": ""
+        },
+        {
+          "id": 124,
+          "dateTime": "2022-01-24T14:06",
+          "number": 5,
+          "notes": ""
+        },
+        {
+          "id": 4850,
+          "dateTime": "2022-01-26T14:06",
+          "number": 2,
+          "notes": ""
+        }
+      ]
     },
-    { 
+    {
       "id": 2,
       "title": "Running",
       "activity": "Run",
@@ -18,7 +37,32 @@
       "number": 10,
       "unit": "miles",
       "interval": "per week",
-      "actions": []
+      "actions": [
+        {
+          "id": 3395,
+          "dateTime": "2022-01-24T20:53",
+          "number": 3,
+          "notes": ""
+        },
+        {
+          "id": 5955,
+          "dateTime": "2022-01-28T20:53",
+          "number": 3,
+          "notes": ""
+        },
+        {
+          "id": 8259,
+          "dateTime": "2022-01-26T20:53",
+          "number": 4,
+          "notes": ""
+        },
+        {
+          "id": 3715,
+          "dateTime": "2022-01-31T13:32",
+          "number": 4,
+          "notes": ""
+        }
+      ]
     },
     {
       "id": 3,
@@ -38,8 +82,94 @@
       "number": 8.5,
       "unit": "hours",
       "interval": "per day",
-      "actions": []
+      "actions": [
+        {
+          "id": 1868,
+          "dateTime": "2022-01-24T20:53",
+          "number": 9,
+          "notes": ""
+        },
+        {
+          "id": 5272,
+          "dateTime": "2022-01-26T20:53",
+          "number": 9,
+          "notes": ""
+        },
+        {
+          "id": 8049,
+          "dateTime": "2022-01-25T20:53",
+          "number": 7,
+          "notes": ""
+        },
+        {
+          "id": 3522,
+          "dateTime": "2022-01-30T13:38",
+          "number": 10,
+          "notes": "It felt great!"
+        }
+      ]
+    },
+    {
+      "title": "Healthy Living",
+      "activity": "Have",
+      "minmax": "at most",
+      "number": 1,
+      "unit": "drink",
+      "interval": "per day",
+      "actions": [
+        {
+          "id": 8850,
+          "dateTime": "2022-01-23T15:19",
+          "number": 1,
+          "notes": ""
+        },
+        {
+          "id": 2387,
+          "dateTime": "2022-01-25T15:19",
+          "number": 2,
+          "notes": ""
+        },
+        {
+          "id": 1202,
+          "dateTime": "2022-01-27T15:19",
+          "number": 1,
+          "notes": ""
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Meditation",
+      "activity": "Meditate",
+      "minmax": "at least",
+      "number": "30",
+      "unit": "min",
+      "interval": "per week",
+      "actions": [
+        {
+          "id": 5746,
+          "dateTime": "2022-01-27T13:38",
+          "number": 10,
+          "notes": "It was hard to focus."
+        },
+        {
+          "id": 3900,
+          "dateTime": "2022-01-29T13:38",
+          "number": 25,
+          "notes": "It felt great!"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "Example Goal to delete",
+      "activity": "delete me",
+      "minmax": "at least",
+      "number": "30",
+      "unit": "min",
+      "interval": "per week",
+      "actions": [],
+      "id": 7
     }
   ]
 }
-
